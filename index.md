@@ -1,4 +1,4 @@
-![](https;//osmaniye.edu.tr/Resource/Images/osmaniye-korkut-ata-universitesi.png)
+![](https://osmaniye.edu.tr/Resource/Images/osmaniye-korkut-ata-universitesi.png)
 # Osmaniye Korkut Ata Üniversitesi
 ## Yönetim Bilişim Sistemleri Bilişim 
 ### Gİthub Sayfasıdır 
